@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi, I'm Harsh 👋<br><br>I'm a software developer interested in web development, open-source, and learning new technologies.<br><br>- 🔭 Currently working on: Personal projects<br>- 🌱 Learning: React, Node.js<br>- 💬 Ask me about: JavaScript, Git<br>- 📫 How to reach me: darklordharsh69@gmail.com
+## 👋 Hi, I'm Harsh
+
+I'm a **Full-Stack Software Developer** focused on building scalable web applications and exploring modern technologies.
+
+- 🔭 Working on: Personal & open-source projects  
+- 🌱 Learning: Advanced React, Backend Architecture  
+- 💬 Ask me about: JavaScript, TypeScript, Node.js  
+- 📫 Reach me: darklordharsh69@gmail.com  
+
+---
 
 
 # 💻 Tech Stack:
